@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
   </a>	
   <a href="mailto:abrarwali@protonmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://https://img.shields.io/badge/Protonmail-%7C-%23E6E6FA" alt="example"/>
+    <img src="https://img.shields.io/badge/Protonmail-%7C-%23E6E6FA" alt="Protonmail"/>
   </a>
    <a href="https://www.linkedin.com/in/abrarwali" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
