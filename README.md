@@ -53,9 +53,7 @@
    <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
-   <a href="https://www.selenium.dev/" target="_blank">
-    <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  </a>
+
    <a href="https://jupyter.org/" target="_blank">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   </a>
@@ -68,15 +66,3 @@
   </a>
 
 </p>
-
-
-
-
-## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
-
-
-
-Credits: [Nneji123](https://github.com/Nneji123)
-
-Last Edited on: 4/30/2022
