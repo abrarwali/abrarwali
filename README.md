@@ -21,7 +21,7 @@
   </p>
 
 
-<p >SBuilding Autonomous Cloud Management Platform at Sedai.</p>
+<p >Building Autonomous Cloud Management Platform at Sedai.</p>
 
 
 
