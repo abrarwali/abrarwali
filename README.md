@@ -21,8 +21,7 @@
   </p>
 
 
-<p >I specialize in Python Programming Language and its' various frameworks and libraries such as Flask, Django ,Numpy, Pandas, SciKit Learn, OpenCV, etc.
-</p>
+<p >SBuilding Autonomous Cloud Management Platform at Sedai.</p>
 
 
 
